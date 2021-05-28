@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Amount", 
+        "value": "2"
+      }, 
+      {
+        "trait_type": "Type", 
+        "value": "Moon"
+      }
+    ], 
+    "description": "", 
+    "external_url": "", 
+    "image": "https://turgutb455.github.io/TurgutB454/factury-pics/4.png", 
+    "name": "Moon Box"
+  }

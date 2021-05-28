@@ -1,0 +1,30 @@
+[
+  {
+    "attributes": [
+      {
+        "trait_type": "ACCESSORY",
+        "value": "something 0"
+      },
+      {
+        "trait_type": "ACCESSORY",
+        "value": "something 1"
+      },
+      {
+        "trait_type": "ACCESSORY",
+        "value": "somehing 2"
+      },
+      {
+        "trait_type": "ACCESSORY",
+        "value": "something 3"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Classic"
+      }
+    ],
+    "description": "#173",
+    "external_url": "",
+    "image": "https://turgutb455.github.io/TurgutB454/creature-pics/173.png",
+    "name": "Classic #173"
+  }
+]
